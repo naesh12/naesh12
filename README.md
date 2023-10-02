@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @naesh12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Naresh kumar behera
+- 👀 I’m interested in various types of projects related to future
+- 🌱 I’m currently learning full stack devlopment
+- 💞️ I’m looking to collaborate with any one who can also looking for a collab
+- 📫 How to reach me,my gmail(beheranaresh2212@gmail.com)
 
 <!---
 naesh12/naesh12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
